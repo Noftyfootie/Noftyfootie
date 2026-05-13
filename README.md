@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 * 🌱 Currently learning: **React, Next.js, TypeScript**
-* 💼 Open to: **Frontend Developer opportunities & collaborations**
+* 💼 Open to: **Frontend Developer role, intern and collaborations**
 * ⚡ Fun fact: I enjoy turning ideas into interactive web experiences.
 * 📫 Reach me at: **[owolabinofisat7@gmail.com](mailto:owolabinofisat7@gmail.com)**
 * 🌍 Portfolio: **[https://layodevpersonalportfolio.netlify.app/](https://layodevpersonalportfolio.netlify.app/)**
